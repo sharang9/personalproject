@@ -22,6 +22,6 @@ Here are some of the interesting things I have learned so far:
 
 The app currently is not on the app store as it is being worked on. 
 
-This project is my first project and I have learnt a lot so far. Everyday I learn something new and I like the flexibility of playing with code. 
+This project is my first project and I have learnt a lot so far. Everyday I learn something new and I like the flexibility of playing with code...... Test
   
   
